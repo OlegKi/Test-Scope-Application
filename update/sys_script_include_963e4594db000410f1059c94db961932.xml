@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_bsnag_test_scope.TestClass</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>TestClass</name>
+        <script><![CDATA[var TestClass = Class.create();
+TestClass.prototype = {
+    initialize: function() {
+    },
+
+    type: 'TestClass'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>Oleg.Kiriljuk</sys_created_by>
+        <sys_created_on>2019-09-18 11:19:09</sys_created_on>
+        <sys_id>963e4594db000410f1059c94db961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestClass</sys_name>
+        <sys_package display_value="Test Scope Application" source="x_bsnag_test_scope">0738f818db044410a4f97a6af4961999</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Test Scope Application">0738f818db044410a4f97a6af4961999</sys_scope>
+        <sys_update_name>sys_script_include_963e4594db000410f1059c94db961932</sys_update_name>
+        <sys_updated_by>Oleg.Kiriljuk</sys_updated_by>
+        <sys_updated_on>2019-09-18 11:19:09</sys_updated_on>
+    </sys_script_include>
+</record_update>

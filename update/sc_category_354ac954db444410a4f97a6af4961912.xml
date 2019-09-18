@@ -17,7 +17,6 @@
         <parent/>
         <roles/>
         <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
-        <show_in_cms>false</show_in_cms>
         <sys_class_name>sc_category</sys_class_name>
         <sys_created_by>Oleg.Kiriljuk</sys_created_by>
         <sys_created_on>2019-09-18 11:02:05</sys_created_on>
